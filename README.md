@@ -17,3 +17,6 @@ Python’s simpler syntax makes it easier to write programs like this one to do 
 
 ### What I Learned in this Assignment
 I’m still pretty new to Python, so this was all a learning experience for me. This assignment allowed me to practice doing things in Python like creating a class, using pickle, and taking in user input.
+
+## Homework 2: Word Guessing Game
+[This program](Homework2/homework2_npj190000.py) uses Python and NLTK features to explore a text file and create a word guessing game. 
