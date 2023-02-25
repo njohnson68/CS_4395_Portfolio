@@ -20,3 +20,6 @@ I’m still pretty new to Python, so this was all a learning experience for me. 
 
 ## Homework 2: Word Guessing Game
 [This program](Homework2/homework2_npj190000.py) uses Python and NLTK features to explore a text file and create a word guessing game. 
+
+## WordNet
+[This](portfolio_assignment_wordnet_npj190000.pdf) is the PDF of my WordNet assignment which was originally created as a Jupyter Notebook. This assignment allowed me to gain familiarity with using WordNet and SentiWordNet. It also allowed me to learn how to identify collocations.
