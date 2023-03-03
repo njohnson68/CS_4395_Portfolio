@@ -26,3 +26,6 @@ I’m still pretty new to Python, so this was all a learning experience for me. 
 
 ## N-grams
 In [this](N-grams/ngrams_program1_npj190000.py) program, I created unigram and bigram dictionaries for English, French, and Italian using the provided training data where the key is the unigram or bigram text and the value is the count of that unigram or bigram in the data. Then for the test data, I calculated probabilities for each language and compared against the true labels. That was done in [this](N-grams/ngrams_program2_npj190000.py) program. Also included is a [narrative](N-grams/N-Grams_Narrative.pdf) about n-grams.
+
+## Sentence Parsing
+In [this](sentence_parsing_npj190000.pdf) program, I came up with a sentence and ran a PSG parse, dependency parse, and an SRL parse on it. I then summarized the pros and cons of each kind of parse with respect to my sentence.
