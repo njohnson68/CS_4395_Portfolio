@@ -32,3 +32,6 @@ In [this](sentence_parsing_npj190000.pdf) program, I came up with a sentence and
 
 ## Web Crawler
 In [this](Web_Crawler/web_crawler_npj190000.py) program, I created a web crawler that outputs a list of 15 relevant urls related to my starting url (the Dallas Stars Wikipedia page). In this program I also output the top 30 most important words from each link. At the end of the program, I created a knowledge base of 10 important words related to the Dallas Stars and facts relating to each word. Also included is a [report](Web_Crawler/web_crawler_report_npj190000.pdf) talking more about the knowledge base.
+
+## Text Classification
+In [this](npj190000_textclassification1.pdf) program, I practiced using Naive Bayes, Logistic Regression, and Neural Networks with sklearn. I chose a text classification data set from Kaggle to perform these three approaches on. The data set contains tweets about the 2022 FIFA World Cup and their sentiments (neutral, positive, negative).
