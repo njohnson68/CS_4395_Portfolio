@@ -35,3 +35,6 @@ In [this](Web_Crawler/web_crawler_npj190000.py) program, I created a web crawler
 
 ## Text Classification
 In [this](npj190000_textclassification1.pdf) program, I practiced using Naive Bayes, Logistic Regression, and Neural Networks with sklearn. I chose a text classification data set from Kaggle to perform these three approaches on. The data set contains tweets about the 2022 FIFA World Cup and their sentiments (neutral, positive, negative).
+
+## ACL Paper Summary
+In [this](npj190000_acl_paper_summary.pdf) paper, I chose a paper to write about from the Proceedings of the Association for Computational Linguistics' 60th Annual Meeting. The paper I chose is entitled "Should a Chatbot be Sarcastic? Understanding User Preferences Towards Sarcasm Generation". My summary includes sections about things like the problem addressed by the paper, prior work, and unique contributions made by the authors in this particular study.
