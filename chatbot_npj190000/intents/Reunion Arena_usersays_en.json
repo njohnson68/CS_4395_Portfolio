@@ -1,0 +1,41 @@
+[
+  {
+    "id": "2e5e66f1-56cc-4eaa-b05f-4f47c57c6fcf",
+    "data": [
+      {
+        "text": "What was the Dallas Stars first arena?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b03daba-e119-4dea-b7ad-05417956c9a8",
+    "data": [
+      {
+        "text": "What was the Dallas Stars first home arena?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb47cc5a-8ec4-4ee8-be09-1fc16f7c0d5c",
+    "data": [
+      {
+        "text": "Where else have the Dallas Stars played home games?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

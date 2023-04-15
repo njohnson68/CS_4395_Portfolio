@@ -1,0 +1,61 @@
+{
+  "id": "516563c7-9c3e-419e-a9f7-61a27fa68542",
+  "name": "Where is the User From",
+  "auto": true,
+  "contexts": [
+    "getName"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "userisfrom",
+          "lifespan": 5
+        },
+        {
+          "name": "getName",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "832e7af3-0793-4ff5-8f7c-22dfbd77040f",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thank you, #getName.given-name from $geo-city! How can I help you today?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

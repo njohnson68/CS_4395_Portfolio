@@ -1,0 +1,20 @@
+[
+  {
+    "action": "smalltalk.agent.chatbot",
+    "customAnswers": [
+      "You\u0027re astute!"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.thank_you",
+    "customAnswers": [
+      "You\u0027re welcome!"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.well_done",
+    "customAnswers": [
+      "Thank you!"
+    ]
+  }
+]

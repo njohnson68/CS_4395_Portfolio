@@ -1,0 +1,70 @@
+[
+  {
+    "id": "0ecd169b-9ade-4792-82b4-0915f99b348d",
+    "data": [
+      {
+        "text": "anaheim",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59cb4a84-f6c1-487b-b187-8cc3e65d2c1b",
+    "data": [
+      {
+        "text": "I\u0027m from ",
+        "userDefined": false
+      },
+      {
+        "text": "Seattle",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0adab5e1-cd80-40f6-81be-2894d701d872",
+    "data": [
+      {
+        "text": "Pittsburgh",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "736e4b0c-4836-4b6c-aaf9-5da0ffb77fb5",
+    "data": [
+      {
+        "text": "I am from ",
+        "userDefined": false
+      },
+      {
+        "text": "Dallas",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

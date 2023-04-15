@@ -1,0 +1,47 @@
+{
+  "id": "ae0b62d0-2c5a-43d0-95f7-99e776b8757c",
+  "name": "Output User\u0027s Information",
+  "auto": true,
+  "contexts": [
+    "getName",
+    "userisfrom"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "getName",
+          "lifespan": 5
+        },
+        {
+          "name": "userisfrom",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Your name is #getName.given-name and you are from #userisfrom.geo-city."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
