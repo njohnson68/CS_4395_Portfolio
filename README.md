@@ -33,7 +33,7 @@ In [this](sentence_parsing_npj190000.pdf) program, I came up with a sentence and
 ## Web Crawler
 In [this](Web_Crawler/web_crawler_npj190000.py) program, I created a web crawler that outputs a list of 15 relevant urls related to my starting url (the Dallas Stars Wikipedia page). In this program I also output the top 30 most important words from each link. At the end of the program, I created a knowledge base of 10 important words related to the Dallas Stars and facts relating to each word. Also included is a [report](Web_Crawler/web_crawler_report_npj190000.pdf) talking more about the knowledge base.
 
-## Text Classification
+## Text Classification 1
 In [this](npj190000_textclassification1.pdf) program, I practiced using Naive Bayes, Logistic Regression, and Neural Networks with sklearn. I chose a text classification data set from Kaggle to perform these three approaches on. The data set contains tweets about the 2022 FIFA World Cup and their sentiments (neutral, positive, negative).
 
 ## ACL Paper Summary
@@ -41,3 +41,6 @@ In [this](npj190000_acl_paper_summary.pdf) paper, I chose a paper to write about
 
 ## Chatbot
 I made a chatbot that can carry on a limited conversation in a particular domain using a knowledge base. The chatbot is also able to learn information about the user such as name and hometown. I am using the same knowledge base from the Web Crawler assignment, so the chatbot is able to answer some questions about the Dallas Stars. Here is the link to the chatbot: https://bot.dialogflow.com/6e57a3ce-8e2b-4705-9f41-21c79f72cf79. The report for the chatbot can be found [here](npj190000_chatbot_report.pdf). I used Google's DialogFlow to help make this chatbot.
+
+## Text Classification 2
+In [this](npj190000_textclassification2.pdf) program, I practiced using Keras. I used the same data set from Text Classification 1 to do this assignment.
