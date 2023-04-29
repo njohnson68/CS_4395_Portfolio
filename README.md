@@ -47,3 +47,6 @@ I made a chatbot that can carry on a limited conversation in a particular domain
 
 ## Text Classification 2
 In [this](npj190000_textclassification2.pdf) program, I practiced using Keras. I used the same data set from Text Classification 1 to do this assignment.
+
+## Summary
+After completing this course, my skills in NLP have improved so that I am now able to do things like create a web crawler, use WordNet, and do text classification using sklearn and Keras. NLP is a cool field that is especially popular now with things like OpenAI's ChatGPT. At the time of writing this, I'm still looking for employment after I graduate, so a job in an NLP-related field is still a possibility and something I would look into. For future personal projects, perhaps I could look into refining my current projects seen here in this portfolio or look to do something new entirely. And finally, if I end up getting a job in some sort of NLP type of role, I for sure would be needing to keep up with the field and make sure I'm not missing out on new developments. If I end up just being a casual observer of how the field grows over time, I could see myself being specifically interested in how long this new trend of AI chatbots lasts and what kind of impact they have on society as a whole.
