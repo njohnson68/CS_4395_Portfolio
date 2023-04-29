@@ -1,4 +1,6 @@
 # CS_4395_Portfolio
+Nick Johnson 
+
 Portfolio for CS 4395 (Human Language Technologies) class work
 
 ## Technical and Soft Skills in this Portfolio
