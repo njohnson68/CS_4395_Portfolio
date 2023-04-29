@@ -2,6 +2,11 @@
 - Python
 - NLTK
 - scikit-learn
+- Jupyter Notebook
+- Keras
+- WordNet
+- SentiWordNet
+- DialogFlow
 
 # Soft Skills
 - Time Management
