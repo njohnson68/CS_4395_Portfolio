@@ -12,3 +12,4 @@
 - Time Management
 - Critical Thinking
 - Ability to Work Independently
+- Problem Solving
